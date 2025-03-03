@@ -1,6 +1,6 @@
 // Code Practice: Tiny Tween Chain
-// Name:
-// Date:
+// Name: Maddison Lobo 
+// Date: 3-3-25
 
 // CODE ARMOR
 'use strict'
